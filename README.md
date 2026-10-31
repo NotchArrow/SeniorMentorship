@@ -7,4 +7,4 @@
 ## Timecard
 | Week | Dates | Hours | Verification |
 | ---- | ----- | ----- | ------------ |
-||||
+|October Week 5|26, 28, 29|6||
