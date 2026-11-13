@@ -4,8 +4,12 @@
 | [Preparing for Research and Mentorship](notes/2026_09_16_PreparingForResearchAndMentorship.md) | 2026 09 16 |
 | [Jefferson Lab Preparation](notes/2026_10_19_JeffersonLabPreparation.md) | 2026 10 19 |
 | [Jefferson Lab Project Overview](notes/2026_10_31_JeffersonLabProjectOverview.md) | 2026 10 31 |
+| [Creating Working Environment](notes/2026_11_04_CreatingWorkingEnvironment.md) | 2026 11 04 |
+| [Remote Workspace Setup](notes/2026_11_13_RemoteWorkspaceSetup.md) | 2026 11 11 |
 
 ## Timecard
 | Week | Dates | Hours | Verification |
 | ---- | ----- | ----- | ------------ |
 |October Week 5|26, 28, 29|6||
+|November Week 1|4, 6|2||
+|November Week 2|11, 13|2||

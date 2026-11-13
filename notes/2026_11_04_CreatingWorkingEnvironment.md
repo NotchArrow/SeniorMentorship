@@ -1,0 +1,9 @@
+# Creating Working Environment | 2026 11 04
+
+The beginning of the workday was dedicated to setting up the local AI environment to continue working on data analysis and processing. Jefferson Lab uses their local servers to run [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B), which is an open-weight model that can be found on Hugging Face. To begin working with the model and the data, the model user needs an API key to access the model, and a harness for the model to utilize.
+
+An AI harness is the environment that it uses to work. An LLM like Qwen can be integrated with a harness and MCP tools, which allows the model to access information and complete other tasks. For example, a model could be given a harness that has access to MCP tools for extracting weather data from the internet, which would enhance the responses with real-time information.
+
+In the case for this research project, a coding harness is used to provide the AI with context and access to the data files. Additionally, the LLM gains the ability to write programs and execute commands on the machine to autonomously complete tasks based on the provided instructions. The two most common coding harnesses are OpenAI's Codex and Anthropic's Claude Code, so both have been setup on the working laptop.
+
+After setting up those harnesses for the model and inserting the API keys to connect to the local server, Qwen began analyzing the datafiles provided from the [JLAB Beam Time Manager](https://ace.jlab.org/btm/) backend. It identified the discrepancies that the research will resolve with additional data sources, and found a few changes to polish the existing data without needing external sources. It gave reasoning behind its responses, but the full report has not been evauluated yet. It also began working on an MCP tool to give it direct access to the API, but that code has not been implemented or reviewed.
