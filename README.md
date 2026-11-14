@@ -5,7 +5,7 @@
 | [Jefferson Lab Preparation](notes/2026_10_19_JeffersonLabPreparation.md) | 2026 10 19 |
 | [Jefferson Lab Project Overview](notes/2026_10_31_JeffersonLabProjectOverview.md) | 2026 10 31 |
 | [Creating Working Environment](notes/2026_11_04_CreatingWorkingEnvironment.md) | 2026 11 04 |
-| [Remote Workspace Setup](notes/2026_11_13_RemoteWorkspaceSetup.md) | 2026 11 11 |
+| [Remote Workspace Setup](notes/2026_11_13_RemoteWorkspaceSetup.md) | 2026 11 13 |
 
 ## Timecard
 | Week | Dates | Hours | Verification |
