@@ -11,5 +11,5 @@
 | Week | Dates | Hours | Verification |
 | ---- | ----- | ----- | ------------ |
 |October Week 5|26, 28, 29|6||
-|November Week 1|4, 6|2||
+|November Week 1|4, 6|2.5||
 |November Week 2|11, 13|2||
